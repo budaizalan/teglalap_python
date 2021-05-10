@@ -6,8 +6,8 @@ def main() -> None:
     terulet = a*b
     kerulet = 2*a+2*b
 
-    print("A téglalap területe(T):", terulet)
-    print("A téglalap kerülete(K):", kerulet)
+    print("A téglalap területe(T):", terulet ("m2"))
+    print("A téglalap kerülete(K):", kerulet ("m"))
 
 
 if __name__ == "__main__":
